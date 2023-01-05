@@ -6,9 +6,13 @@ This dataset contains 1102 images about Japanese streetview images (without anno
 
 ## classification
 a: traffic / parking / guidepost, 185 images in total
+
 b: Commercial land, 542 images in total
+
 c: public land (hospital, post office...), 262 images in total
+
 d: others, 85 images in total
+
 e: industrial land, 28 images in total
 
 # size and origin
