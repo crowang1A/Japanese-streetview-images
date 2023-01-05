@@ -15,5 +15,9 @@ d: others, 85 images in total
 
 e: industrial land, 28 images in total
 
-# size and origin
+## size and origin
 All the images are 640\*640. They are screenshots of Googlemap, or directly scraped from Google map.
+
+## Sample images
+ ![image](https://github.com/crowang1A/Japanese-streetview-images/blob/main/a_11.jpg)
+ ![image](https://github.com/crowang1A/Japanese-streetview-images/blob/main/b_(49).jpg)
