@@ -20,4 +20,3 @@ All the images are 640\*640. They are screenshots of Googlemap, or directly scra
 
 ## Sample images
  ![image](https://github.com/crowang1A/Japanese-streetview-images/blob/main/a_11.jpg)
- ![image](https://github.com/crowang1A/Japanese-streetview-images/blob/main/b_(49).jpg)
